@@ -99,7 +99,7 @@ A custom Glass-morphism UI using layered opacity, CSS backdrop blurs, and sophis
 | Metric | Result |
 |--------|--------|
 | **Responsive** | 100% - flawless layout stability across all viewports |
-| **Users **| 300+ unique students engaged during the two-week launch window |
+| **Users** | 300+ unique students engaged during the two-week launch window |
 | **Avg. Session** | 3.5 minutes per user, indicating deep investment in the storyline |
 
 ---
