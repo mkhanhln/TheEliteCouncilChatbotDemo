@@ -65,7 +65,7 @@ By combining psychological profiling with generative AI, the quiz drives user en
 
 ---
 
-## 🎬 Demo Walkthrough
+## 🎬 Final Product Walkthrough
 
 Watch the full experience from start to finish:
 
@@ -81,7 +81,7 @@ View the full UI design and prototype on Figma:
 
 ---
 
-## 🔒 Live Demo
+## 🔒 Live Version
 
 The live experience is currently **invite-only** and intended for Tien Len Tournament Season IV participants. If you'd like access, please reach out to the VISA at USF team directly.
 
