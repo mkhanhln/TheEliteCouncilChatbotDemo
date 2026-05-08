@@ -16,11 +16,11 @@ The **Elite Council Quiz** is a personality-driven interactive web application d
 
 | Boss | Archetype |
 |------|-----------|
-| ⚙️ **Machination** | Strategic & calculating |
-| 🔥 **Monomania** | Intense & single-minded |
-| 🔮 **Legilimency** | Perceptive & intuitive |
-| 🌌 **Prescience** | Prophetic & far-sighted |
-| 🧊 **Sangfroid** | Emotionless & composed |
+| **Machination** | Strategic & calculating |
+| **Monomania** | Intense & single-minded |
+| **Legilimency** | Perceptive & intuitive |
+| **Prescience** | Prophetic & far-sighted |
+| **Sangfroid** | Emotionless & composed |
 
 By combining psychological profiling with generative AI, the quiz drives user engagement through immersive storytelling and interactive roleplay.
 
@@ -31,7 +31,7 @@ By combining psychological profiling with generative AI, the quiz drives user en
 | Field | Info |
 |-------|------|
 | **Organization** | VISA at USF |
-| **Team** | Marketing & Event Department |
+| **Team** | Marketing & Events |
 | **Timeline** | 2 Weeks |
 | **Purpose** | Event Promotion — Tien Len Tournament Season IV |
 
@@ -39,11 +39,11 @@ By combining psychological profiling with generative AI, the quiz drives user en
 
 ## ✨ Key Features
 
-- **Conversational UI**: Chat-based interface with bot messages left, user responses right, simulating a direct line to the Elite Council
-- **Simulated Latency**: 600ms logic delays + typing animations for a natural, human reading rhythm
-- **Personality-Driven AI**: Context-aware responses that detect themes (fear, power, emotion, strategy) and adapt to each boss's unique voice
-- **Glass-morphism Design**: Layered opacity, CSS backdrop blurs, and luxury typography (`Cinzel` for titles, `Poppins` for body)
-- **Fully Responsive**: Elegant royal aesthetic across all mobile and desktop viewports
+- **Conversational UI** — Chat-based interface with bot messages left, user responses right, simulating a direct line to the Elite Council
+- **Simulated Latency** — 600ms logic delays + typing animations for a natural, human reading rhythm
+- **Personality-Driven AI** — Context-aware responses that detect themes (fear, power, emotion, strategy) and adapt to each boss's unique voice
+- **Glass-morphism Design** — Layered opacity, CSS backdrop blurs, and luxury typography (`Cinzel` for titles, `Poppins` for body)
+- **Fully Responsive** — Elegant royal aesthetic across all mobile and desktop viewports
 
 ---
 
@@ -51,7 +51,7 @@ By combining psychological profiling with generative AI, the quiz drives user en
 
 **Design**
 - Figma
-- Adobe Illustrator/Photoshop
+- Adobe Illustrator / Photoshop
 
 **Frontend**
 - React
@@ -62,6 +62,48 @@ By combining psychological profiling with generative AI, the quiz drives user en
 - Vercel AI SDK
 - Custom System Prompts
 - Edge Runtime
+
+---
+
+## 🎬 Demo Walkthrough
+
+Watch the full experience from start to finish:
+
+🎥 [**Watch on Loom →**](https://www.loom.com/share/836393cea4bc4823aafffd06d44dedf4)
+
+---
+
+## 🎨 Design File
+
+View the full UI design and prototype on Figma:
+
+🔗 [**Open in Figma →**](https://server-play-06832724.figma.site)
+
+---
+
+## 🔒 Live Demo
+
+The live experience is currently **invite-only** and intended for Tien Len Tournament Season IV participants. If you'd like access, please reach out to the VISA at USF team directly.
+
+---
+
+## 🚀 Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/elite-council-quiz.git
+
+# Navigate into the project
+cd elite-council-quiz
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Then open `http://localhost:3000` in your browser.
 
 ---
 
@@ -98,9 +140,9 @@ A custom Glass-morphism UI using layered opacity, CSS backdrop blurs, and sophis
 
 | Metric | Result |
 |--------|--------|
-| **Responsive** | 100% - flawless layout stability across all viewports |
+| **Responsive** | 100% — flawless layout stability across all viewports |
 | **Users** | 300+ unique students engaged during the two-week launch window |
-| **Avg. Session** | 3.5 minutes per user, indicating deep investment in the storyline |
+|**Avg. Session**| 3.5 minutes per user, indicating deep investment in the storyline |
 
 ---
 
@@ -108,9 +150,9 @@ A custom Glass-morphism UI using layered opacity, CSS backdrop blurs, and sophis
 
 | Role | Name |
 |------|------|
-| 🎨 Creative Lead | [Trang Pham](https://www.linkedin.com/in/trang-pham-441140299/) |
-| 🖌️ Lead Product Designer | [Khanh Le](https://www.linkedin.com/in/khanh-le-b95688341/) |
-| 💻 Technical Lead | [Tuan Huynh](https://www.linkedin.com/in/tunawork/) |
+| Creative Lead | [Trang Pham](https://www.linkedin.com/in/trang-pham-441140299/) |
+| Lead Product Designer | [Khanh Le](https://www.linkedin.com/in/khanh-le-b95688341/) |
+| Technical Lead | [Tuan Huynh](https://www.linkedin.com/in/tunawork/) |
 
 ---
 
